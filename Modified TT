@@ -1,0 +1,257 @@
+﻿<html>
+</head>
+<title> 2nd sem MCA Time TAble</title>
+   <style>
+    *
+ {
+  font-family: 'Times New Roman', Times, serif;
+  font-size:medium;
+}
+            img {
+                float: left;
+                margin-right: 2px; 
+                margin-left: 2px; 
+            }
+            .div1 {
+                float: left;
+            }
+            
+            table , td, th {
+                border: 2px solid black;
+                border-collapse: collapse;
+        
+            }
+            td,th{
+                padding: 10px;
+            }
+            .inDiv {
+            height: 25px;
+            background-color: black;
+            }
+            td:hover{
+                background-color: rgb(187, 248, 227);
+            }
+            th:hover{
+                background-color: rgb(133, 194, 228);
+            }
+            #bk:hover{
+                background-color: rgb(78, 182, 185);
+            }
+        </style>
+
+</head>
+<body>
+<h1><marquee left >2nd sem MCA B Time Table</marquee></h1>
+<hr>
+<table border=3 bordercolorlight="blue" width=100% cellpadding = "25" align="center" >
+<tr>
+<th>Time/
+Days</th>
+<th>8.45-9.40</th>
+<th>9.40-10.35</th>
+<th>10.35-10.45</th>
+<th>10.45-11.40</th>
+<th>11.40-12.35</th>
+<th>12.35-1.25 </th>
+<th>01.25-2.20</th>
+<th>02.20-03.15</th>
+<th>03.15-04.10</th>
+</tr>
+<tr>
+<td align="center"><b>Monday</b></td>
+<td align="center">PP</td>
+<td align="center">E1</td>
+<td rowspan="6" style align="center"><pre><b>
+S
+H
+O
+R
+T
+
+B
+R
+E
+A
+K
+</b>
+</pre></td>
+<td colspan="2" align="center"><pre>PP Lab- Batch B1
+WP Lab- Batch B2</pre></td>
+
+<td rowspan="6" align="center"><pre><b>
+L
+U
+N
+C
+H
+
+B
+R
+E
+A
+K
+</b>
+</pre></td>
+<td align="center"><pre>WP</pre></td>
+<td align="center"><pre>MA Tutorial/
+Remidial Classes</pre></td>
+<td align="center"><pre>E1 Tutorial/
+Remidial Classes</pre></td>
+</tr>
+<tr>
+<td align="center"><b>Tuesday</b></td>
+<td align="center"><pre>E2</pre></td>
+<td align="center"><pre>PP</pre></td>
+<td align="center"><pre>E1</pre></td>
+<td align="center"><pre>MA</pre></td>
+<td colspan="2" align="center"><pre>WP Lab- Batch B1
+MAA Lab- Batch B2</pre></td>
+<td align="center"><pre>E2 Tutorial/
+Remidial Classes</pre></td>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Wednesday</b></td>
+<td align="center"><pre>WP</pre></td>
+<td align="center"><pre>E2</pre></td></td>
+<td align="center"><pre>MA</pre></td>
+<td align="center"><pre>E3</pre></td>
+<td align="center"><pre>PP - Tutorials/
+    Remidial class</pre></td>
+<td align="center"><pre>WP - Tutorials/ 
+    Remidial class</pre></td>
+</pre></td>
+<td align="center"><pre>E3 - Tutorials/ 
+    Remidial class</pre></td>
+</tr>
+<tr>
+<td align="center"><b>Thurday</b></td>
+<td align="center"><pre>MA</pre></td>
+<td align="center"><pre>E3</pre></td>
+<td align="center"><pre>WP</pre></td>
+<td align="center"><pre>E2</pre></td>
+<td colspan="2" align="center"><pre>    MAA Lab- Batch B1 
+   PP Lab- Batch B2</pre></td>
+<td align="center"><pre>Mentoring</pre></td>
+</tr>
+<tr>
+<td align="center"><b>Friday</b></td>
+<td align="center"><pre>E3</pre></td>
+<td align="center"><pre>E1</pre></td>
+<td align="center"><pre>PP</pre></td>
+<td align="center"><pre>WP</pre></td>
+<td colspan="3" align="center"><pre>Technical Talks/ Invited Talks/ SPARKS Club
+    Activities</pre></td>
+</tr>
+<tr>
+<td align="center"><b>Saturday</b></td>
+<td align="center"><pre>MAA</pre></td>
+<td align="center"><pre>PP</pre></td>
+<td colspan="2" align="center"><pre>Technical Seminar</pre></td>
+<td colspan="3" align="center"><pre></pre></td>
+</tr>
+</table>
+
+<p>
+
+<table align="center">
+            <tr>
+                <th>Legend</th>
+                <th>Subject Code</th>
+                <th>Subject Title</th>
+                <th>Faculty</th>
+            </tr>
+            <tr>
+                <td>PP </td>
+                <td>MCA201</td>
+                <td>Python Programming</td>
+                <td>Ms. Sowmya K </td>
+            </tr>
+            <tr>
+                <td>WP</td>
+                <td>MCA202</td>
+                <td>Web Programming</td>
+                <td>Mr. Vishwanatha C R </td>
+              </tr>
+              <tr>
+                <td>MA</td>
+                <td>22MCA103</td>
+                <td>Mobile Application</td>
+                <td>Mr. Vidya Sagar S D </td>
+              </tr>
+        
+              <tr>
+                <td>CNC</td>
+                <td>22MCA2041E</td>
+                <td>Computer Networking and Communication</td>
+                <td>Mr. Vishwanatha C R </td>
+              </tr>
+        
+              <tr>
+                <td>IDS</td>
+                <td>222042E</td>
+                <td>Introduction to Data Science</td>
+                <td>Dr. Shashikanth Reddy</td>
+              </tr>
+              <tr>
+                <td>CC</td>
+                <td>222051E</td>
+                <td>Cloud Computing</td>
+                <td>Dr. Sathish P</td>
+              </tr>
+              <tr>
+                <td>AI & CS</td>
+                <td>22MCA2052E</td>
+                <td>Artificial Intelligence and Expert Systems</td>
+                <td>Dr. Dileep M R</td>
+              </tr>
+              <tr>
+                <td>IOT</td>
+                <td>22MCA2053E</td>
+                <td>Cyber Security</td>
+                <td>Dr. Sreekanth R</td>
+              </tr>
+              <tr>
+                <td>SDD</td>
+                <td>22MCA2061E</td>
+                <td>IoT System Design and Development</td>
+                <td>Dr. Shashikanth Reddy & Mr. Channabasava</td>
+              </tr>
+              <tr>
+                <td>ML</td>
+                <td>22MCA2062E</td>
+                <td>Machine Learning</td>
+                <td>Dr. Sathish P</td>
+              </tr>
+             
+                <tr>
+                <td colspan="4"</td>
+              </tr>
+
+              <td>PP Lab</td>
+                <td>22MCA207L</td>
+                <td>Python Programming Laboratory</td>
+                <td>Ms. Sowmya k & Mr. Suneel J S</td>
+              </tr>
+
+              <td>WP Lab</td>
+                <td>22MCA208L</td>
+                <td>Web Programming Laboratory</td>
+                <td> Mr. Vishwanatha C R & Dr. Sathish P </td>
+              </tr>
+
+              <td>MAA Lab</td>
+                <td>22MCA209L</td>
+                <td>Mobile Application In Andriod Laboratory</td>
+                <td> Mr. Vidya Sagar S D & Mr. Suneel J S  </td>
+              </tr>
+            
+              <td>TS</td>
+              <td>22MCA210S</td>
+              <td>Technical Seminar</td>
+              <td> Ms. Shweta D </td>
+            </tr>
+        </table>
+</p>
+</body>
+</html>
