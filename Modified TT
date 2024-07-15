@@ -41,7 +41,7 @@
 
 </head>
 <body>
-<h1><marquee left >2nd sem MCA B Time Table</marquee></h1>
+<h1 style="text-align: center;"> 2nd sem MCA Time Table B Sec</h1>
 <hr>
 <table border=3 bordercolorlight="blue" width=100% cellpadding = "25" align="center" >
 <tr>
